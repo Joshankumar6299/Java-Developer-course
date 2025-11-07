@@ -40,14 +40,34 @@ public class loops {
             
     //     } 
 
-       for(int i=1; i<=4; i++){
-            System.out.println("Day " + i);
+    //    for(int i=1; i<=4; i++){
+    //         System.out.println("Day " + i);
 
-            for(int j=1;j<=9;j++){
-                System.out.println("   " + (j+8) + " _ " + (j+9));
-            }
+    //         for(int j=1;j<=9;j++){
+    //             System.out.println("   " + (j+8) + " _ " + (j+9));
+    //         }
             
-        } 
+    //     } 
+
+
+    // int num1=4;
+    // int num2=5;
+    // Calculator calc= new Calculator();
+    // int result = calc.add(num1, num2);
+    // System.out.println(result);
+
+
+
         
     }
 }
+
+// class Calculator {
+//     int a;
+
+//     public int add(int n1,int n2){
+//         int r =n1+n2;
+//         return r;
+    
+//     }
+// }
